@@ -1,9 +1,9 @@
 ## About me
 <h2>👋 I am Sanjar Almjanov with nickname MrASErDev.  I am Backend developer </h2>
-- Telegram: [MrASErDev](https://t.me/MrASErDev)
+- Telegram:             <a href="https://t.me/MrASErDev/">MrASErDev </a>
 
 ## Main tools
-[![My Skills](https://skillicons.dev/icons?i=c++,python,django,html,css,react,docker)](httpsL//skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c++,php,python,django,html,css,react,docker)](httpsL//skillicons.dev)
 
 ## Other tools:
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,postgresql,sqlite,mysql,vscode,pycharm,anaconda)](httpsL//skillicons.dev)
