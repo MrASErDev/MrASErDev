@@ -1,6 +1,22 @@
-## Hi there 👋
+## About me
+<h2>👋 I am Sanjar Almjanov with nickname MrASErDev.  I am Backend developer </h2>
+- Telegram: [MrASErDev](https://t.me/MrASErDev)
 
-<!--
+## Main tools
+[![My Skills](https://skillicons.dev/icons?i=c++,python,django,html,css,react,docker)](httpsL//skillicons.dev)
+
+## Other tools:
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,postgresql,sqlite,mysql,vscode,pycharm,anaconda)](httpsL//skillicons.dev)
+
+<details>
+  <summary> <b>Github Statistics ⚡ </b> </summary>
+    <a href="https://github.com/MrASErDev">
+      <p align="left"></p>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrASErDev&theme=github_dark">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrASErDev&theme=github_dark">
+</details>
+
+
 **MrASErDev/MrASErDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
