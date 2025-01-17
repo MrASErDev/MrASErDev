@@ -1,7 +1,10 @@
 ## About me
 <h2>👋 I am Sanjar Almjanov with nickname MrASErDev.  I am Backend developer </h2>
-- Telegram:             <a href="https://t.me/MrASErDev/">MrASErDev </a>
-- Leetcode: <a href="https://leetcode.com/u/sanjar2202/">MrASErDev </a> 
+- Telegram:             <a href="https://t.me/MrASErDev/">MrASErDev </a> 
+<br/>
+- Leetcode:             <a href="https://leetcode.com/u/sanjar2202/">MrASErDev </a>
+<br/>
+
 ## Main tools
 [![My Skills](https://skillicons.dev/icons?i=c++,php,python,django,html,css,react,docker)](httpsL//skillicons.dev)
 
