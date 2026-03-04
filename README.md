@@ -6,7 +6,7 @@
 <br/>
 
 ## Main tools
-[![My Skills](https://skillicons.dev/icons?i=python,pandas,numpy,django,docker,html,css,react,php,)](httpsL//skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,numpy,django,docker,html,css,react,php,)](httpsL//skillicons.dev)
 
 ## Other tools:
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,postgresql,sqlite,mysql,vscode,pycharm,anaconda)](httpsL//skillicons.dev)
