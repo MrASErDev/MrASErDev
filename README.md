@@ -1,5 +1,5 @@
 ## About me
-<h2>👋 I am Sanjar Alimjanov with nickname MrASErDev.  I am Backend developer </h2>
+<h2>👋 I am Sanjar Alimjanov with nickname MrASErDev.  I am Data analyst (skilled Backend programming as well) </h2>
 - Telegram:             <a href="https://t.me/MrASErDev/">MrASErDev </a> 
 <br/>
 - Leetcode:             <a href="https://leetcode.com/u/sanjar2202/">MrASErDev </a>
